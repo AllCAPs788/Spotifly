@@ -8,8 +8,8 @@ We pulled all sorts of [**data**](https://www.kaggle.com/yamaerenay/spotify-data
 *  	160,000+ songs with 19 data points each
 *  	Good combination of qualitative points, binary options, and number ranges
 
-WHY ARE YOU INTERESTED:
-Music is a universal language that has withstood the test of time and is present in nearly all areas of the globe. Spotify is one of the top music platforms in the U.S. One thing that’s always interested me about music is how different the songs on the top of charts are; when I listen to Spotify’s top 50, I can expect to hear anything from pop to country or from rap to childrens within the span of 15 minutes.
+## What We're Here For:
+We know how much music moves each and every one of you. Spotify is one of the top music platforms in the U.S. And, Spotify is one top ways to reach that place music takes you. 
  
 INSPIRATION: A dashboard page with multiple charts that update from the same data.
  
