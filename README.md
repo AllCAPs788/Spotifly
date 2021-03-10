@@ -1,5 +1,7 @@
 # Spotifly
 
+The new ssh key works.
+
 Hey, all you cool listeners. This is Spotifly Radio: the place where your quest for music and data collide. 
 
 ![vinyl](images/vinyl.jpg)
